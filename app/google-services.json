@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462773824566",
+    "firebase_url": "https://laggersappmod.firebaseio.com",
+    "project_id": "laggersappmod",
+    "storage_bucket": "laggersappmod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462773824566:android:1838e3e29ce0b874",
+        "android_client_info": {
+          "package_name": "com.example.usuario.laggersappmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462773824566-6g1b2arsnh3n0n4g5h1oano6rog3s8or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.laggersappmod",
+            "certificate_hash": "3b395cac30c9006775fc5b66cc70d4445e74e15a"
+          }
+        },
+        {
+          "client_id": "462773824566-4gdmmv624ea5r6870c9bqu59apocsi1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuiGWndN9BQb1jCEHU-A3XdRce3Em8w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462773824566-4gdmmv624ea5r6870c9bqu59apocsi1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
